@@ -1,0 +1,13 @@
+# Arduino secrets
+esp8266/**/secrets.h
+
+# Python
+backend/.env
+backend/.venv/
+backend/__pycache__/
+*.pyc
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
